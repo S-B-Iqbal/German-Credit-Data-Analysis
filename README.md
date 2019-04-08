@@ -1,4 +1,7 @@
 # German-Credit-Data-Analysis
+
+## Objective
+
 The objective is to build a model that classifies whether a Transaction is fraudulent or not.
 
 
@@ -29,3 +32,7 @@ This file contains the workflow for **Usecase # 2 - Fraud or Not** . The current
     * 5.5 Model Evaluation
 * 6. Results
 * 7. Conclusion
+
+## Background
+
+The Dataset holds about a 1000 credit card transactions of users along with labels.
