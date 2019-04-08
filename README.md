@@ -39,7 +39,7 @@ The Dataset holds about a 1000 credit card transactions of users along with labe
 
 ## Data Source
 
-The Data Source for the current project is taken from the **Kaggle** repository with the following [Link](​https://www.kaggle.com/uciml/german-credit)
+The Data Source for the current project is taken from the **Kaggle** repository with the following [Link](https://www.kaggle.com/uciml/german-credit)
 
 The original Dataset was missing the **default** column. I have added the column from the original UCI Repository.
 Please refer the below link for further reference:
