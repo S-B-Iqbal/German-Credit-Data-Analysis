@@ -1,5 +1,7 @@
 # German-Credit-Data-Analysis
 
+An old repository that I forgot to upload.
+
 ## Objective
 
 The objective is to build a model that classifies whether a Transaction is fraudulent or not.
