@@ -36,3 +36,12 @@ This file contains the workflow for **Usecase # 2 - Fraud or Not** . The current
 ## Background
 
 The Dataset holds about a 1000 credit card transactions of users along with labels.
+
+## Data Source
+
+The Data Source for the current project is taken from the **Kaggle** repository with the following [Link](​https://www.kaggle.com/uciml/german-credit)
+
+The original Dataset was missing the **default** column. I have added the column from the original UCI Repository.
+Please refer the below link for further reference:
+
+[Missing Credit Label](https://www.kaggle.com/uciml/german-credit/discussion/26658#latest-275345)
